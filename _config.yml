@@ -1,0 +1,35 @@
+color:
+  brandColors:
+    - '#FF5335'
+    - '#B39C85'
+    - '#306E73'
+    - '#3B424D'
+    - '#1D181F'
+  brandStrength: 0.9968611733056605
+  lightness: 0.485437432769686
+  saturation: 0.5385084247682244
+  rhythmicContrast: 0.25113936932757497
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Bbcelectronic.com
+layout_spectrum: 0.8922103345394135
+typography_spectrum: 0.5791360819712281
+content: []
+title: BBC ELECTRONIQUE
+description: >-
+  BBC ELECTRONIQUE est une société commerciale qui relie les fournisseurs en
+  chine, Hong Kong, Thaïlande, Vietnam ..avec le client dans le monde entier
+  nous fournir a nos clients les meilleurs fournisseurs .  La négociation peut
+  être définie de diverses manières. En effet, on peut la définir en tant que
+  démarche d’accord, d’arrangement, d’échange ou encore d’entente. La
+  négociation est la recherche d’un accord, centrée sur des intérêts matériels
+  ou des enjeux quantifiables entre deux ou plusieurs interlocuteurs (on ne
+  négocie pas avec soi-même, on délibère), dans un temps limité. 
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/84b744d2-1075-4f36-94b9-e7f266fb503c.jpg
